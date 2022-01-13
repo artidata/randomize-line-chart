@@ -1,2 +1,2 @@
 # randomize-line-chart
-Created with CodeSandbox
+Exploring ChartJS with ReactJS with react-chartjs-2.
